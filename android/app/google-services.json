@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128937136987",
+    "project_id": "fir-pnv-82453",
+    "storage_bucket": "fir-pnv-82453.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128937136987:android:520f47a3b9ab223047407e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_pnv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVkF21GM3H18LB-er-_TBm-_zWUPdWn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
